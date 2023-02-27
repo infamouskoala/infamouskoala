@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/75808182/221623540-5e63cf93-0515-4f8d-b6e2-62dec92e0cb2.png)
+![image](https://user-images.githubusercontent.com/75808182/221623540-5e63cf93-0515-4f8d-b6e2-62dec92e0cb2.gif)
 ```py
 Import AboutMe
 from AboutMe import Koala

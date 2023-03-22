@@ -12,9 +12,11 @@ Languages I work in:
 - SQL
 - C/CPP/CP/Java (hopefully someday)
 
-Contact me: 
+My Discord:
+![image](https://discord.c99.nl/widget/theme-3/938763585256034315.png)
+
+More Socials: 
 - Insta : @koaladevelopment
-- Discord : Infamous Koala#3958
 - Reddit : [Koala_From_Mars](https://www.reddit.com/user/Koala_From_Mars)
 - YouTube : [Infamous Koala](youtube.com/infamouskoala)
 

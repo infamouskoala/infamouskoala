@@ -1,8 +1,4 @@
 ![image](https://cdn.discordapp.com/attachments/1025777449897836564/1079805571236114542/download.gif)
-```py
-Import AboutMe
-from AboutMe import Koala
-```
 
 Hey! I am Koala and this is my github profile. I post projects here that I either don't use or that my community asks for. Consider following if you want some aswell :)
 ```

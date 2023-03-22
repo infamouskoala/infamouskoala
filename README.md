@@ -17,7 +17,7 @@ My Discord:
 ![image](https://discord.c99.nl/widget/theme-3/938763585256034315.png)
 
 More Socials: 
-- Insta : @koaladevelopment
+- Insta : [@koaladevelopment](https://www.instagram.com/koaladevelopment)
 - Reddit : [Koala_From_Mars](https://www.reddit.com/user/Koala_From_Mars)
 - YouTube : [Infamous Koala](youtube.com/infamouskoala)
 

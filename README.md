@@ -13,6 +13,7 @@ Languages I work in:
 - C/CPP/CP/Java (hopefully someday)
 
 My Discord:
+
 ![image](https://discord.c99.nl/widget/theme-3/938763585256034315.png)
 
 More Socials: 

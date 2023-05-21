@@ -14,7 +14,7 @@ Languages I work in:
 
 My Discord:
 
-![image](https://discord.c99.nl/widget/theme-3/938763585256034315.png)
+![image](https://discord.c99.nl/widget/theme-3/868405180276805633.png)
 
 More Socials: 
 - Insta : [@koaladevelopment](https://www.instagram.com/koaladevelopment)

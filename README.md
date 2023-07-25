@@ -10,7 +10,7 @@ Languages I work in:
 - Javascript
 - Dart
 - SQL
-- C/CPP/CP/Java (hopefully someday)
+- C/CPP
 
 My Discord:
 

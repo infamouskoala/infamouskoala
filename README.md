@@ -2,7 +2,7 @@
 
 Hey! I am Koala and this is my github profile. I post projects here that I either don't use or that my community asks for. Consider following if you want some aswell :)
 ```
->>> Likes: Backend development, Ethical hacking, Music and coffee
+>>> Likes: Backend development, Networking, Music and Coffee
 >>> Dislikes: Skids, Egoistic people, Frontend, Designing
 ```
 Languages I work in: 

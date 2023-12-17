@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infamouskoala&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infamouskoala&theme=dark&show_icons=true)
 # CONTACT ME
-![image](https://discord.c99.nl/widget/theme-3/1157733927100883035.png)
+![image](https://discord.c99.nl/widget/theme-3/1182014680735166597.png)
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀

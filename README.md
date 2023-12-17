@@ -1,9 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infamouskoala&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infamouskoala&theme=radical&show_icons=true)
+<a href="https://chasa.wtf">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=infamouskoala&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infamouskoala&layout=compact&langs_count=2&theme=midnight-purple&hide_border=true&hide_title=true"/>
+</a>
 
-# Socials
-- [Discord](https://discord.com/users/1182014680735166597)
-- [Telegram](https://t.me/infamouskoala)
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀
 ⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⢀⣀⣀⣀⡀⠘⠋⢉⠙⣷⠀⠀⢀⣾⣿⡿⠁⠀⠀
